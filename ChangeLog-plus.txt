@@ -1,4 +1,4 @@
-{"version_code":4512010,"content":"
+{"version_code":451210,"content":"
 <p>6.70تحديث</p>
 
 <li>2.18.327 التحديث لنسخه الماركت</li>
