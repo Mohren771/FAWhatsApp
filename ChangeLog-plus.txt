@@ -1,17 +1,42 @@
-{"version_code":451210,"content":"
-<p>10.40تحديث</p>
+{"version_code":451211,"content":"
+<p>تحديث 6.85</p>
 
+<li>التحديث لنسخة الماركت 2.19.17</li>
+<li>إضافة الفيسات الجديدة</li>
+<li>يمكنك عمل مكالمة جماعية ما اعضاء المجموعات</li>
+<li>اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
+<li>اصلاح الانهيار عند محاولة البحث عن ثيمات</li>
+<li>اصلاح اضافة الملصقات من قوقل بلاي</li>
+<li>إصلاحات اخرى</li>
 
-<li>إضافه خيار الرجوع للفيسات الايموجي القديمه يعمل تلقائيا بدون اعاده تشغيل</li>
-<li>إضافه قسم الحالات الكتابيه فيه اقسام كثيره تعمل بدون نت</li>
-<li>زياده حجم الحاله الئ اكثر من ساعه</li>
-<li> زياده اعضاء الرسائل الجماعيه </li>
-<li>تمديد صلاحيه الواتساب الئ عام 2020</li>
-<li>يمكنك اضافه ملصقات للواتساب من تطبيقات الماركت</li>
-<li>اضافه خطوط جديده</li>
-<li>يمكنك تثبيت 30محادثه بدل من25محادثه</li>
-<li>اضافه ميزه النص التلقائي التحفيل</li>
-<li>إصلاحات اخرئ</li>
+<li> Added Now You can Add Stickers From PlayStore to any Package</li>
+<li> New Base Updated to 2.19.17</li>
+<li> Added New Emojis</li>
+<li> Added You can call Participants in groups</li>
+<li> Added Reply Privately when select message in groups</li>
+<li> Fixed Added Stickers From Google Play Apps</li>
+<li> Fixed Crash when search in themes</li>
+<li> Many More Fixes</li>
 
-","url":"https://www.fatheel-tech.com/2018/11/fawatsapp.html?m=1"
+","url":"https://www.fatheel-tech.com/2019/05/fawhatsapp-685.html?m=1"
 }
+{"version_code":451211,"content":"
+<p>تحديث 6.85</p>
+
+<li>التحديث لنسخة الماركت 2.19.17</li>
+<li>إضافة الفيسات الجديدة</li>
+<li>يمكنك عمل مكالمة جماعية ما اعضاء المجموعات</li>
+<li>اذا قمت بتحديد رسالة مرسلة في المجموعة يمكنك الرد على مرسلها بشكل منفرد في الخاص</li>
+<li>اصلاح الانهيار عند محاولة البحث عن ثيمات</li>
+<li>اصلاح اضافة الملصقات من قوقل بلاي</li>
+<li>إصلاحات اخرى</li>
+
+<li> Added Now You can Add Stickers From PlayStore to any Package</li>
+<li> New Base Updated to 2.19.17</li>
+<li> Added New Emojis</li>
+<li> Added You can call Participants in groups</li>
+<li> Added Reply Privately when select message in groups</li>
+<li> Fixed Added Stickers From Google Play Apps</li>
+<li> Fixed Crash when search in themes</li>
+<li> Many More Fixes</li>
+
